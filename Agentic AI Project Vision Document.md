@@ -1,4 +1,4 @@
-This decument describes a project which is much more interesting than a simple **“chat with PDFs” RAG application**.
+This document describes a project which is much more interesting than a simple **“chat with PDFs” RAG application**.
 
 We would design it as a **Research Copilot / Autonomous Research Agent** whose job is to move through the scientific workflow:
 
